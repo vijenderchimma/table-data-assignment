@@ -46,6 +46,7 @@ div{
   flex-direction: column;
   align-items: center;
   overflow-x: auto;
+  flex-wrap: wrap;
 }
 
 table,th,td{
